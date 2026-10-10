@@ -1,0 +1,33 @@
+{
+  "cognitive": [
+    "CoT",
+    "Step-by-step",
+    "Intuitive_Fast",
+    "Deliberate_Slow",
+    "Hypothesis_Testing",
+    "Analogical_Reasoning",
+    "Rule_Based",
+    "Abductive_Reasoner"
+  ],
+  "verification": [
+    "Skeptic",
+    "Conservative",
+    "Fact_checker",
+    "Gullible",
+    "Evidence_Seeking",
+    "Self_Doubting",
+    "Literalist",
+    "Overconfident",
+    "Consistency_Checker"
+  ],
+  "domain": [
+    "Code_Expert",
+    "Medical_Expert",
+    "General_Knowledge",
+    "Math_Expert",
+    "Science_Expert",
+    "Legal_Reasoner",
+    "Data_Analyst",
+    "Systems_Thinker"
+  ]
+}

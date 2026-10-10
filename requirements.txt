@@ -1,0 +1,6 @@
+datasets
+matplotlib
+numpy
+openai
+requests
+tenacity
